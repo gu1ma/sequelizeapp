@@ -1,9 +1,9 @@
 module.exports = {
   development: {
-    username: "root",
-    password: "",
+    username: "dh",
+    password: "123456",
     database: "dh",
-    port: 3307,
+    port: 3306,
     host: "localhost",
     dialect: "mysql",
     //operatorsAliases: false
